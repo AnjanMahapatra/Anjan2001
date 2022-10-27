@@ -1,1 +1,1 @@
-console("Hello Node.js!")
+console("Hello Node.js!");
